@@ -1,0 +1,6 @@
+framework module Pods_NasaAssignment {
+  umbrella header "Pods-NasaAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
